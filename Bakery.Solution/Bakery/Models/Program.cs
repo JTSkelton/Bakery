@@ -7,7 +7,10 @@ public class Program
   {
     public static void Main()
     {
-      
+    }
+    public bool Bread()
+    {
+      return false;
     }
   }
 }

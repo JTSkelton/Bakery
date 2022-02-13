@@ -1,0 +1,16 @@
+C:\Users\Jack\Documents\Epicodus\C#\Bakery\Bakery.Solution\Bakery\obj\Debug\net5.0\Bakery.csproj.AssemblyReference.cache
+C:\Users\Jack\Documents\Epicodus\C#\Bakery\Bakery.Solution\Bakery\obj\Debug\net5.0\Bakery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jack\Documents\Epicodus\C#\Bakery\Bakery.Solution\Bakery\obj\Debug\net5.0\Bakery.AssemblyInfoInputs.cache
+C:\Users\Jack\Documents\Epicodus\C#\Bakery\Bakery.Solution\Bakery\obj\Debug\net5.0\Bakery.AssemblyInfo.cs
+C:\Users\Jack\Documents\Epicodus\C#\Bakery\Bakery.Solution\Bakery\obj\Debug\net5.0\Bakery.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Documents\Epicodus\C#\Bakery\Bakery.Solution\Bakery\bin\Debug\net5.0\Bakery.exe
+C:\Users\Jack\Documents\Epicodus\C#\Bakery\Bakery.Solution\Bakery\bin\Debug\net5.0\Bakery.deps.json
+C:\Users\Jack\Documents\Epicodus\C#\Bakery\Bakery.Solution\Bakery\bin\Debug\net5.0\Bakery.runtimeconfig.json
+C:\Users\Jack\Documents\Epicodus\C#\Bakery\Bakery.Solution\Bakery\bin\Debug\net5.0\Bakery.runtimeconfig.dev.json
+C:\Users\Jack\Documents\Epicodus\C#\Bakery\Bakery.Solution\Bakery\bin\Debug\net5.0\Bakery.dll
+C:\Users\Jack\Documents\Epicodus\C#\Bakery\Bakery.Solution\Bakery\bin\Debug\net5.0\ref\Bakery.dll
+C:\Users\Jack\Documents\Epicodus\C#\Bakery\Bakery.Solution\Bakery\bin\Debug\net5.0\Bakery.pdb
+C:\Users\Jack\Documents\Epicodus\C#\Bakery\Bakery.Solution\Bakery\obj\Debug\net5.0\Bakery.dll
+C:\Users\Jack\Documents\Epicodus\C#\Bakery\Bakery.Solution\Bakery\obj\Debug\net5.0\ref\Bakery.dll
+C:\Users\Jack\Documents\Epicodus\C#\Bakery\Bakery.Solution\Bakery\obj\Debug\net5.0\Bakery.pdb
+C:\Users\Jack\Documents\Epicodus\C#\Bakery\Bakery.Solution\Bakery\obj\Debug\net5.0\Bakery.genruntimeconfig.cache
