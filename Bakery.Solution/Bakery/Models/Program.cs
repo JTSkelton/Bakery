@@ -16,5 +16,10 @@ public class Program
       }
       return loaf * 5;
     }
+
+    public int Pastery(int sweet)
+    {
+      return sweet * 2;
+    }
   }
 }
