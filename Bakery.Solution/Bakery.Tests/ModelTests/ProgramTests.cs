@@ -10,7 +10,7 @@ namespace Bakery.Tests
     public void Bread_ReturnFalse_False()
     {
       Program testBread = new Program();
-      Assert.AreEqual(false, testBread.Bread());
+      Assert.AreEqual(true, testBread.Bread(1));
     } 
   }
 }

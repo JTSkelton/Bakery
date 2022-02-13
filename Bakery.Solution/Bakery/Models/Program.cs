@@ -8,9 +8,9 @@ public class Program
     public static void Main()
     {
     }
-    public bool Bread()
+    public bool Bread(int loaf)
     {
-      return false;
+      
     }
   }
 }
