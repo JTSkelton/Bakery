@@ -10,6 +10,10 @@ public class Program
     }
     public int Bread(int loaf)
     {
+      if (loaf % 3 == 0)
+      {
+        return ((loaf * 5)-((loaf * 5) / 3));
+      }
       return loaf * 5;
     }
   }
