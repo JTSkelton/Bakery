@@ -7,7 +7,7 @@ namespace Bakery.Tests
   public class ProgramTests
   {
     [TestMethod]
-    public void Bread_ReturnLoafCoast_5()
+    public void Bread_ReturnLoafCost_5()
     {
       Program testBread = new Program();
       Assert.AreEqual(5, testBread.Bread(1));
@@ -18,6 +18,13 @@ namespace Bakery.Tests
     {
       Program testBread = new Program();
       Assert.AreEqual(10, testBread.Bread(3));
+    } 
+
+    [TestMethod]
+    public void Pastery_Return1PasteryCost_2()
+    {
+      Program testPastery = new Program();
+      Assert.AreEqual(2, testPastery.Pastery(1));
     } 
   }
 }
