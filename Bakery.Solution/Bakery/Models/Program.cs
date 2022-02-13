@@ -7,18 +7,25 @@ public class Program
   {
     public static void Main()
     {
+
     }
-    public int Bread(int loaf)
+  }
+  public class Bread
+  {
+  public int MakeBread(int loaf)
     {
       if (loaf % 3 == 0) return ((loaf * 5)-((loaf * 5) / 3));
       
       return loaf * 5;
     }
+  }
 
-    public int Pastery(int sweet)
+  public class Pastery
+  {
+  public int MakePastery(int sweet)
     {
       if (sweet == 1) return sweet * 2;
-      
+
       return ((sweet * 2) - 1);
     }
   }
