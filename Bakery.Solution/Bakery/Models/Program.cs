@@ -10,16 +10,16 @@ public class Program
     }
     public int Bread(int loaf)
     {
-      if (loaf % 3 == 0)
-      {
-        return ((loaf * 5)-((loaf * 5) / 3));
-      }
+      if (loaf % 3 == 0) return ((loaf * 5)-((loaf * 5) / 3));
+      
       return loaf * 5;
     }
 
     public int Pastery(int sweet)
     {
-      return sweet * 2;
+      if (sweet == 1) return sweet * 2;
+      
+      return ((sweet * 2) - 1);
     }
   }
 }

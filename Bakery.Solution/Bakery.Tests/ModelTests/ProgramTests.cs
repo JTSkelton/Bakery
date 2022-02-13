@@ -27,7 +27,7 @@ namespace Bakery.Tests
       Assert.AreEqual(2, testPastery.Pastery(1));
     } 
 
-     [TestMethod]
+    [TestMethod]
     public void Pastery_Return5PasteryCost_9()
     {
       Program testPastery = new Program();
