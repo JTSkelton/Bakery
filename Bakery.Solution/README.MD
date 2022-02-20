@@ -7,6 +7,8 @@
 ## Technologies Used
 
 - _C#_
+- _MSTest_
+- _.NET_
 
 ## Setup/Installation Requirements
 
